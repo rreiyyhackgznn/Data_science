@@ -4,11 +4,11 @@ This folder contains my **7-week data science practice work**, where I focused o
 
 The purpose of this repository is to document my learning process and hands-on exercises using commonly used data science libraries.
 
-## 📌 Topics Covered
+#Topics Covered
 
 During this 7-week period, I worked on the following topics:
 
-### 🔹 Python Libraries
+# Python Libraries
 - **NumPy**
   - Array creation and manipulation
   - Basic mathematical operations
@@ -24,16 +24,15 @@ During this 7-week period, I worked on the following topics:
   - Line plots, bar charts, histograms
   - Understanding data distributions through plots
 
----
 
-## 📊 Statistics Basics
+# Statistics Basics
 - Mean, median, variance, standard deviation
 - Understanding data distributions
 - Simple statistical interpretations for datasets
 
----
 
-## 📁 Repository Structure
+
+# Repository Structure
 The folder includes:
 - Python scripts and notebooks created during weekly exercises
 - Small datasets used for practice
@@ -41,22 +40,6 @@ The folder includes:
 
 Each file represents a specific topic or practice session completed during the learning process.
 
----
-
-## 🎯 Purpose of This Repository
-- Strengthen my fundamentals in data analysis
-- Gain hands-on experience with core data science tools
-- Build a learning-based portfolio to support internship and early-career applications
-
 This repository is **educational and practice-oriented**, focusing on understanding concepts rather than building production-level projects.
 
----
-
-## 🚀 Next Steps
-- Apply these fundamentals to small real-world datasets
-- Combine data analysis skills with cybersecurity and network-related use cases
-- Continue improving Python skills for automation and analysis
-
----
-
-📌 *This repository reflects my learning journey as a Computer Engineering student.*
+*This repository reflects my learning journey as a Computer Engineering student.*
